@@ -3,12 +3,12 @@
 * [概述](README.md)
 * [登录](chapter1.md)
 * [区域产业分析](qu-yu-chan-ye-fen-xi.md)
-  * [区域产业分析](qu-yu-chan-ye-fen-xi/qu-yu-xing-ye-fen-xi.md)
+  * [区域产业分析](qu-yu-chan-ye-fen-xi/qu-yu-chan-ye-fen-xi.md)
   * [区域行业分析](qu-yu-chan-ye-fen-xi/qu-yu-xing-ye-fen-xi.md)
 * [热门行业画像](re-men-xing-ye-hua-xiang.md)
   * [行业概览](re-men-xing-ye-hua-xiang/xing-ye-gai-lan.md)
-  * 热门领域
-  * 上升领域
+  * [热门领域](re-men-xing-ye-hua-xiang/re-men-ling-yu.md)
+  * [上升领域](re-men-xing-ye-hua-xiang/shang-sheng-ling-yu.md)
 * [投资机构画像](tou-zi-ji-gou-hua-xiang.md)
   * VC/PE
 * [我的工作台](wo-de-gong-zuo-tai.md)
