@@ -11,7 +11,7 @@
 * [投资机构画像](tou-zi-ji-gou-hua-xiang.md)
   * [VC/PE](tou-zi-ji-gou-hua-xiang/vcpe.md)
 * [我的工作台](wo-de-gong-zuo-tai.md)
-  * 招商项目管理
+  * [招商项目管理](wo-de-gong-zuo-tai/zhao-shang-xiang-mu-guan-li.md)
   * 高级搜索
   * 我的关注
 * [园区管理](yuan-qu-guan-li.md)
