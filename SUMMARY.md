@@ -9,7 +9,7 @@
   * [热门领域](re-men-xing-ye-hua-xiang/re-men-ling-yu.md)
   * [上升领域](re-men-xing-ye-hua-xiang/shang-sheng-ling-yu.md)
 * [投资机构画像](tou-zi-ji-gou-hua-xiang.md)
-  * VC/PE
+  * [VC/PE](tou-zi-ji-gou-hua-xiang/vcpe.md)
 * [我的工作台](wo-de-gong-zuo-tai.md)
   * 招商项目管理
   * 高级搜索
