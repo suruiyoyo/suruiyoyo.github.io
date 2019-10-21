@@ -12,8 +12,8 @@
   * [VC/PE](tou-zi-ji-gou-hua-xiang/vcpe.md)
 * [我的工作台](wo-de-gong-zuo-tai.md)
   * [招商项目管理](wo-de-gong-zuo-tai/zhao-shang-xiang-mu-guan-li.md)
-  * 高级搜索
-  * 我的关注
+  * [高级搜索](wo-de-gong-zuo-tai/gao-ji-sou-suo.md)
+  * [我的关注](wo-de-gong-zuo-tai/wo-de-guan-zhu.md)
 * [园区管理](yuan-qu-guan-li.md)
   * 园区管理
   * 园区政策管理
