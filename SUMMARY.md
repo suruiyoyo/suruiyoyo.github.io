@@ -18,5 +18,6 @@
   * [园区管理](yuan-qu-guan-li/yuan-qu-guan-li.md)
   * [园区政策管理](yuan-qu-guan-li/yuan-qu-zheng-ce-guan-li.md)
   * [入驻企业](yuan-qu-guan-li/ru-zhu-qi-ye.md)
-* 政策库
+* [政策法规](zheng-ce-ku.md)
+  * [政策库](zheng-ce-ku/zheng-ce-ku.md)
 
