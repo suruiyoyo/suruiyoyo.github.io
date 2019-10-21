@@ -15,7 +15,7 @@
   * [高级搜索](wo-de-gong-zuo-tai/gao-ji-sou-suo.md)
   * [我的关注](wo-de-gong-zuo-tai/wo-de-guan-zhu.md)
 * [园区管理](yuan-qu-guan-li.md)
-  * 园区管理
+  * [园区管理](yuan-qu-guan-li/yuan-qu-guan-li.md)
   * 园区政策管理
   * 入驻企业
 * 政策库
