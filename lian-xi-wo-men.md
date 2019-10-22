@@ -6,9 +6,7 @@
 
 **联系我们**
 
-电话：15120051877
+电话：010-6479 7889
 
-邮箱：surx@raysdata.com
-
-
+邮箱：marketing@raysdata.com
 
