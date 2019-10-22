@@ -10,6 +10,7 @@
   * [上升领域](re-men-xing-ye-hua-xiang/shang-sheng-ling-yu.md)
 * [投资机构画像](tou-zi-ji-gou-hua-xiang.md)
   * [VC/PE](tou-zi-ji-gou-hua-xiang/vcpe.md)
+  * [融资事件](tou-zi-ji-gou-hua-xiang/rong-zi-shi-jian.md)
 * [我的工作台](wo-de-gong-zuo-tai.md)
   * [招商项目管理](wo-de-gong-zuo-tai/zhao-shang-xiang-mu-guan-li.md)
   * [高级搜索](wo-de-gong-zuo-tai/gao-ji-sou-suo.md)
@@ -20,5 +21,5 @@
   * [入驻企业](yuan-qu-guan-li/ru-zhu-qi-ye.md)
 * [政策法规](zheng-ce-ku.md)
   * [政策库](zheng-ce-ku/zheng-ce-ku.md)
-* 联系我们
+* [关于我们](lian-xi-wo-men.md)
 
