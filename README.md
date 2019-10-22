@@ -13,5 +13,5 @@
 
 首页展示：![](/assets/shouye.png)
 
-[^1]: Enter footnote here.
+
 
